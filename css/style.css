@@ -329,6 +329,7 @@ body{
     color: #373636;
     outline: none;
     border: 1px solid #e6e6e6;
+    cursor: pointer;
 }
 
 .services_button:hover{
@@ -735,6 +736,7 @@ body{
     color: #373636;
     outline: none;
     border: 1px solid #e6e6e6;
+    cursor: pointer;
 }
 
 .news_button:hover{
